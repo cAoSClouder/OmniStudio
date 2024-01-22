@@ -180,7 +180,7 @@ En la pesatana de Style aparece una flecha en la cual se puede guardar el estilo
 1. State 1 - conditions
 	Can hide elements depends of the conditions
 2. State 2 - No conditions
-3. State 3 - Blank Card State (no records returned))
+3. State 3 - Blank Card State (no records returned)
 
 # FelxCards actions
 
